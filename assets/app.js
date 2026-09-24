@@ -66,7 +66,7 @@
         'Access to international faculty for cross-border masterclasses and clinics.'
       ],
       boundary: 'Assessment informs, it does not decide admission, investment or graduation. Ambassador commissions are disclosed separately from the operator fee. IP in the assessment engine remains with Supsindex.',
-      status: 'Partner-reviewed wording restored. Ready to re-send for digital signature.',
+      status: 'Sent · signed return pending.',
       cls: 'pill--ok'
     },
     ikl: {
@@ -142,11 +142,11 @@
     { cat: 'tech', kind: 'Technical', title: 'Site & layout schedule', desc: 'One campus: Delta 1–6 plus AI-expansion buildings 7–9, mapped to the seven clusters.', href: 'docs/02_Technical/Site_and_Layout_Schedule.html', meta: 'Page 24 schedule' },
     { cat: 'tech', kind: 'Technical', title: 'Engagement parameters', desc: 'Term, mobilisation, division of responsibility, financial framework and handover.', href: 'docs/02_Technical/Engagement_Parameters.html', meta: 'Part II · 3 marks' },
     { cat: 'tech', kind: 'Technical', title: 'Value added — Clarity-to-Pathway', desc: 'Quarterly aggregated park learning loop, privacy-protective by design.', href: 'docs/02_Technical/Value_Added.html', meta: 'Part II · 2 marks' },
-    { cat: 'loi', kind: 'LOI · International', title: 'Supsindex', desc: 'Yanus Solutions LLC. FPA / GEB / EEA, gate tracking and diagnostic certification.', href: 'docs/03_Partners/Final_LOIs/LOI_01_Supsindex_NASTP_WiseDezine.html', meta: 'Ready to re-send' },
+    { cat: 'loi', kind: 'LOI · International', title: 'Supsindex', desc: 'Yanus Solutions LLC. FPA / GEB / EEA, gate tracking and diagnostic certification.', href: 'docs/03_Partners/Final_LOIs/LOI_01_Supsindex_NASTP_WiseDezine.html', meta: 'Sent · return pending' },
     { cat: 'loi', kind: 'LOI · Academia', title: 'IKL', desc: 'Institute of Knowledge & Leadership. Founder leadership, governance and facilities.', href: 'docs/03_Partners/Final_LOIs/LOI_02_IKL_NASTP_WiseDezine.html', meta: 'Sent · return pending' },
     { cat: 'loi', kind: 'LOI · Industry', title: 'Medad Innovation & Future Technologies', desc: 'Commercial validation, investor-readiness clinics and qualified venture review.', href: 'docs/03_Partners/Final_LOIs/LOI_03_Medad_NASTP_WiseDezine.html', meta: 'Sent · return pending' },
     { cat: 'loi', kind: 'LOI · Corridor', title: 'Tech Oman Platform', desc: 'GCC problem framing, market exploration and pilot pathway exploration.', href: 'docs/03_Partners/Final_LOIs/LOI_04_Tech_Oman_NASTP_WiseDezine.html', meta: 'Sent · return pending' },
-    { cat: 'loi', kind: 'LOI · Academia', title: 'IoBM', desc: 'Institute of Business Management. Faculty mentoring, SSKIC sourcing and research commercialization.', href: 'docs/03_Partners/Final_LOIs/LOI_05_IoBM_NASTP_WiseDezine.html', meta: 'Ready to send' },
+    { cat: 'loi', kind: 'LOI · Academia', title: 'IoBM', desc: 'Institute of Business Management. Faculty mentoring, SSKIC sourcing and research commercialization.', href: 'docs/03_Partners/Final_LOIs/LOI_05_IoBM_NASTP_WiseDezine.html', meta: 'Sent · return pending' },
     { cat: 'part', kind: 'Partner review', title: 'Forensics & ClarityOS lens', desc: 'Evidence boundaries, contribution mapping and the six-question application.', href: 'docs/03_Partners/Partner_Forensics_and_ClarityOS_Lens.html', meta: 'Internal' },
     { cat: 'comm', kind: 'Commercial', title: 'Cost-to-serve & pricing schedule', desc: 'Eight cost lines, overhead, visible margin and the 24-month term arithmetic.', href: 'docs/04_Commercial/Commercial_Schedule.html', meta: 'Separate envelope' },
     { cat: 'evid', kind: 'Evidence', title: 'Evidence index', desc: 'The claim-to-document matrix required by the EOI, with status per row.', href: 'docs/05_Evidence_and_Forms/Evidence_Index.html', meta: 'Outer package' },
@@ -169,7 +169,7 @@
     { id: 'c6', t: 'IKL LOI return', d: 'Signed copy with named institutional focal point.' },
     { id: 'c7', t: 'Medad LOI return', d: 'Signed copy with the authorized signatory’s full name and title inserted.' },
     { id: 'c8', t: 'Tech Oman LOI return', d: 'Signed copy with the named coordinator and signatory inserted.' },
-    { id: 'c9', t: 'IoBM LOI dispatch + return', d: 'Send the additional letter to Prof. Dr. Muhammad Abbas and file the signed original.' },
+    { id: 'c9', t: 'IoBM LOI return', d: 'The additional letter has been sent to Prof. Dr. Muhammad Abbas; file the signed original.' },
     { id: 'c10', t: 'Supsindex commission disclosure', d: 'Current founder price, commission rate, recipient and trigger, with consent / alternative pathway.' },
     { id: 'c11', t: 'CVs and availability', d: 'Zeeshan Sabri source CV plus availability; named staff only once confirmed.' },
     { id: 'c12', t: 'Site plan confirmation', d: 'GWALPHA-confirmed room allocation, floor area, utilities, access and cluster mapping.' },

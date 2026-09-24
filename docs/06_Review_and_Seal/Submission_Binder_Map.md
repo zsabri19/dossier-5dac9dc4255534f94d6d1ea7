@@ -30,7 +30,8 @@ This maps the working Opencode documents into the tender’s package. It is an a
 6. Executed IKL evidence and confirmed leadership/facility contribution.
 7. Executed Medad evidence and confirmed industry/commercial-review contribution.
 8. Executed Tech Oman evidence and corridor/problem-framing contribution, credited distinctly.
-9. `02_Technical/Value_Added.html` as the additional park learning-loop proposal.
+9. Executed IoBM evidence and academic/entrepreneurship contribution, with SSKIC and faculty activity subject to IoBM’s institutional rules.
+10. `02_Technical/Value_Added.html` as the additional park learning-loop proposal.
 
 ## Separate indicative financial envelope
 

@@ -19,7 +19,7 @@
 
 ## Partner instruments
 
-- [ ] Place executed originals for Supsindex, IKL, Medad and Tech Oman in the partner evidence folder.
+- [ ] Place executed originals for Supsindex, IKL, Medad, Tech Oman and IoBM in the partner evidence folder.
 - [ ] Verify each executed instrument names the correct applicant legal entity and has authorized signatures/date.
 - [ ] Resolve blanks in the Medad and Tech Oman signatory names from the executed instruments.
 - [ ] Confirm each promised cadence, facility, review or introduction contribution with the partner’s named focal point.
